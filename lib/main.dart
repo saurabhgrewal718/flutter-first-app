@@ -6,7 +6,8 @@ void main() {
       appBar:AppBar(
         backgroundColor: Colors.black,
         title: Text(
-            "Pardon its the first app :)"
+            "Pardon its the first app :)",
+            style: TextStyle(fontSize: 24),
         ),
       ),
       backgroundColor: Colors.black87,
