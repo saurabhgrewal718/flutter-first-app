@@ -1,16 +1,4 @@
-# testfinal
+# First flutter App
+my first app its just a screen , getting hands dirty in flutter , in case you are interested how the app looks ....
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot of app](https://lh3.googleusercontent.com/zxXd21Qthdk_nrggjcrT-urK1get3Syei2y9OF8NIF07GHLLxXUHafBkZj4cPyubA4zEvBB-oAGyz-j4I0EeRVSvdHwPhmqiRxTAMWanJviCOiHBjl2jX9Ax4sWvBfU_bwHaDIw0lh1Ui6JsQ0RLabJBivlHU8l2ybjzC4FikU1ub3PB7kjfd1YcH1a8YJwrCJ3boWCS6grLQxQ8CGqeRBun0FwyvXguwIm551yC0PgmonSdN-BRsIHYVMwFqHPFFeAr_xEcr2-If5516T0WXCGK6BzsxtnClb58BqgZ6NxXYuLpPdfAucdsRpZL7nHfc9XD7tcryfH_aihOGub3bftxJN18ed476JO6lobWsm50zZKg2GC-MWtnuQ_HSN36h0yKPDS2HohDfXDGZn7-L0jTwRUigkpzCwB0Fv51KzMQywI3Cewa58RxbRh8CJvQlhapHPl-hBReJvD5kv1Ex2ue0FCrHTbdQcZSohA7MSWby5Y8DVeBD9twFYeuxvnsKgK1IMSAEseCF0yhPARhzO1h8GRH6QPxKGJ6K9-H1W9ZohNyjKeW7bm0g46wEDe6fWtW5hcuAZcYIuvrU7gcVX73pNPL3Y2npr_2nqQxmCr58d19IA0tQ5cHClPZiXu73UBvtlWLuBqEBtj9bwakhuTIcxfsu55_G9c6lF_jLvH8nWlZA9ETNb7Wa7cTyg=w509-h903-no?authuser=0)
